@@ -34,4 +34,4 @@ Setting q to 0 or smaller will verify the whole proof, otherwise the top-q itera
 Please make sure `lr`, `batch-sizr`, `dataset`, `model`, and `save-freq` are consistent with what used in `train.py`.
 
 ### Questions or suggestions
-If you have any questions or suggestions, feel free to raise an issuer or send me an email at nickhengrui.jia@mail.utoronto.ca
+If you have any questions or suggestions, feel free to raise an issue or send me an email at nickhengrui.jia@mail.utoronto.ca
