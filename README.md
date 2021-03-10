@@ -35,3 +35,14 @@ Please make sure `lr`, `batch-sizr`, `epochs`, `dataset`, `model`, and `save-fre
 
 ### Questions or suggestions
 If you have any questions or suggestions, feel free to raise an issue or send me an email at nickhengrui.jia@mail.utoronto.ca
+
+### Citing this work
+If you use this repository for academic research, you are highly encouraged (though not required) to cite our paper:
+```
+@inproceedings{jia2021proofoflearning,
+      title={Proof-of-Learning: Definitions and Practice}, 
+      author={Hengrui Jia and Mohammad Yaghini and Christopher A. Choquette-Choo and Natalie Dullerud and Anvith Thudi and Varun Chandrasekaran and Nicolas Papernot},
+      booktitle={Proceedings of the 42nd IEEE Symposium on Security and Privacy},
+      year={2021}
+}
+```
